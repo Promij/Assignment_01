@@ -1,0 +1,130 @@
+.Wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+.A{
+	border: 2px solid red;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.B{
+	border: 2px solid red;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.C{
+	border: 2px solid red;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.D{
+	border: 2px solid red;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.E{
+	border: 2px solid red;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.cricket{
+	border: 2px solid green;
+	width: 25%;
+	height: 50px;
+	display: inline-block;
+	margin-left: 10px;	
+	margin-top: 3px;
+	padding: 5px;
+	overflow: hidden;
+	background: grey;
+}
+.football{
+	border: 2px solid green;
+	width: 40.6%;
+	height: 50px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 3px;
+	padding: 5px;
+	overflow: hidden;
+	background: coral;
+}
+.cricket p{
+	margin: 9px 15px;
+}
+.football p{
+	margin: 15px 20px;
+}
+.apple{
+	border: 2px solid green;
+	width: 60%;
+	height: 250px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 3px;
+	overflow: hidden;
+	background: rgb(100,75,75);
+}
+.banana{
+	border: 2px solid green;
+	width: 35.8%;
+	height: 250px;
+	display: inline-block;
+	margin-left: 8px;
+	margin-top: 3px;
+	overflow: hidden;
+	background: rgb(80,60,40);
+}
+.column{
+	border: 2px solid green;
+	width: 23%;
+	height: 250px;
+	display: inline-block;
+	margin-top: 3px;
+	overflow: hidden;
+	margin-left: 10px;
+	background: rgb(150,50,50);
+}
+.pen{
+	border: 2px solid green;
+	width: 40%;
+	height: 250px;
+	display: inline-block;
+	margin-left: 10px;	
+	margin-top: 3px;
+	padding: 5px;
+	overflow: hidden;
+	background: grey;
+}
+.pencil{
+	border: 2px solid green;
+	width: 30%;
+	height: 250px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 3px;
+	padding: 5px;
+	overflow: hidden;
+	background: coral;
+}
+.eraser{
+	border: 2px solid green;
+	width: 20.7%;
+	height: 250px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 3px;
+	padding: 5px;
+	overflow: hidden;
+	background: grey;
+}
+.real{
+	border: 2px solid green;
+	width: 47.85%;
+	height: 50px;
+	display: inline-block;
+	margin-top: 3px;
+	overflow: hidden;
+	margin-left: 10px;
+	background: rgb(200,100,50);
+}
